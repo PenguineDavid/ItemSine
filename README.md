@@ -28,7 +28,7 @@ amplitude: 0.5
 You can summon an item display with the tag like this:
 
 ```bash
-/summon minecraft:item_display ~ ~ ~ {Tags:["spin"], item:{id:"<nameSpace:path>",Count:1}}
+/summon minecraft:item_display ~ ~ ~ {Tags:["bob"], item:{id:"<nameSpace:path>",Count:1}}
 ```
 
 ## CropyRight
