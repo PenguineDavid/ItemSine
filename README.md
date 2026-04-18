@@ -25,6 +25,12 @@ bobs-per-tick: 0.1
 amplitude: 0.5
 ```
 
+You can summon an item display with the tag like this:
+
+```bash
+/summon minecraft:item_display ~ ~ ~ {Tags:["spin"], item:{id:"<nameSpace:path>",Count:1}}
+```
+
 ## CropyRight
 ©2026 PenguineDavid. All rights Reserved.
 Licensed under the polyform noncommercial license 1.0.0
