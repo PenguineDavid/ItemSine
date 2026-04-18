@@ -1,0 +1,5 @@
+# This is the configuration file for the BobPlugin. You can adjust the settings below
+# to customize the behavior of the plugin.
+
+bobs-per-tick: 0.1
+amplitude: 0.5
