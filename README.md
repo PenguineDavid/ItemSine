@@ -23,3 +23,8 @@ Makes ItemDisplay entities bob up and down with a smooth sine wave.
 bobs-per-tick: 0.1
 # Movement height in blocks
 amplitude: 0.5
+```
+
+## CropyRight
+©2026 PenguineDavid. All rights Reserved.
+Licensed under the polyform noncommercial license 1.0.0
