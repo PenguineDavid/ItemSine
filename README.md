@@ -33,4 +33,4 @@ You can summon an item display with the tag like this:
 
 ## CropyRight
 ©2026 PenguineDavid. All rights Reserved.
-Licensed under the polyform noncommercial license 1.0.0
+Licensed under the MIT license https://github.com/PenguineDavid/ItemSine?tab=MIT-1-ov-file
